@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 location                 : "Atlanta, GA"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "periwinkle" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Lucie Xu"
 title_separator          : "-"
 name                     : &name "Lucie Xu"
