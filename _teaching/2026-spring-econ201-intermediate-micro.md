@@ -10,20 +10,30 @@ location: "Atlanta, GA"
 
 Instructor of record, Summer 2024 and Spring 2026.
 
-I teach Intermediate Microeconomics with an emphasis on clear structure, active practice, and individual support. My approach pairs concise lectures with daily in-class worksheets, weekly problem sets, and prompt feedback, giving students structured, low-stakes practice and frequent opportunities to ask questions.
+I teach Intermediate Microeconomics with an emphasis on clear structure and active practice. My approach pairs concise lectures with daily in-class worksheets, weekly problem sets, and prompt feedback, giving students structured, low-stakes practice and frequent opportunities to ask questions.
 
-In my Spring 2026 section, student evaluations placed my course and instruction well above the comparable benchmark of similarly sized lecture sections at Emory College, with the large majority of students rating every dimension of the course as "very effective."
+Spring 2026 Evaluation: 3.87/4
 
 ## What Students Say
-
-> This class was incredibly well organized and Ms. Xu had very clear explanations. I thought this just worked very well.
 
 > Coming into ECON 201, I was told to be aware of the difficulty of the course, but Lucie crafted the material in an approachable way and was always present to answer additional questions.
 
 > Lectures were clear and concise. They showed good examples combined with practice sets we solved that facilitated learning effectively.
 
-> Lucie dedicates part of class time for us to work on practice problems and she is always available to answer questions.
-
 > Lucie was very good at breaking down the structure of the class — especially with the lectures, worksheets, and problem sets. She always brings professionalism and a great attitude to help students understand the material and learn at their own pace. I would definitely recommend her to other students.
 
-> Intermediate Microeconomics is a hard subject to learn, but Lucie handled it with absolute grace. She always came to class prepared and organized, and went above and beyond for each of her students — checking in when I was confused and making sure every student had the accommodations they needed. I am leaving this class with the highest praise.
+> Lucie always made sure we were aware of deadlines for assignments and that we were up to date with upcoming assessments. I appreciated the clarity and flexibility she maintained with us, as well as her organization of the course.
+
+> I have nothing but amazing things to say about Prof. Lucie — she constantly went above and beyond for each and every one of her students. She always came to class prepared and organized. Intermediate Microeconomics is a hard subject to learn, and I'm sure an even harder subject to teach, but Lucie handled it with absolute grace. When she knew I was confused on a certain subject, she would come check on me in class to make sure I was doing alright on that day's worksheet. She also handled accommodations really well, making sure each student had what they needed to do as best they possibly could. I was nervous coming into this class, but Lucie was nothing short of amazing, and I am leaving with the highest praise.
+
+---
+
+## Teaching Assistant
+
+In addition to teaching as instructor of record, I have served as a teaching assistant for the following courses at Emory University:
+
+- **ECON 600: Microeconomic Theory I (PhD)** — Fall 2022, Fall 2023, Fall 2024
+- **ECON 601: Microeconomic Theory II (PhD)** — Spring 2024
+- **ECON 201: Intermediate Microeconomics** — Fall 2022, Spring 2023, Fall 2023, Fall 2024
+- **ECON 341: Business and Government** — Spring 2023, Fall 2024
+- **ECON 341: Managerial Economics** — Fall 2024
