@@ -25,15 +25,3 @@ Spring 2026 Evaluation: 3.87/4
 > Lucie always made sure we were aware of deadlines for assignments and that we were up to date with upcoming assessments. I appreciated the clarity and flexibility she maintained with us, as well as her organization of the course.
 
 > I have nothing but amazing things to say about Prof. Lucie — she constantly went above and beyond for each and every one of her students. She always came to class prepared and organized. Intermediate Microeconomics is a hard subject to learn, and I'm sure an even harder subject to teach, but Lucie handled it with absolute grace. When she knew I was confused on a certain subject, she would come check on me in class to make sure I was doing alright on that day's worksheet. She also handled accommodations really well, making sure each student had what they needed to do as best they possibly could. I was nervous coming into this class, but Lucie was nothing short of amazing, and I am leaving with the highest praise.
-
----
-
-## Teaching Assistant
-
-In addition to teaching as instructor of record, I have served as a teaching assistant for the following courses at Emory University:
-
-- **ECON 600: Microeconomic Theory I (PhD)** — Fall 2022, Fall 2023, Fall 2024
-- **ECON 601: Microeconomic Theory II (PhD)** — Spring 2024
-- **ECON 201: Intermediate Microeconomics** — Fall 2022, Spring 2023, Fall 2023, Fall 2024
-- **ECON 341: Business and Government** — Spring 2023, Fall 2024
-- **ECON 341: Managerial Economics** — Fall 2024
