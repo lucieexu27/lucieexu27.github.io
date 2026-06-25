@@ -28,7 +28,7 @@ author:
   name             : "Lucie Xu"
   pronouns         : # example: "she/her"  
   bio              : "Job Market Candidate"
-  location         : "Earth"
+  location         : 
   employer         : "Emory University"
   uri              : # URL
   email            : "lucie.xu@emory.edu" 
