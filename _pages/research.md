@@ -7,16 +7,17 @@ author_profile: true
 
 ## Job Market Paper
 
-**[Privacy Regulation and Optimal Product Design]**
+**Privacy Regulation and Optimal Product Design**
 [Download PDF](/files/job-market-paper.pdf)
 
 ## Working Papers
 
-**[Optimal Consumer Privacy with an Expert]**
+**Optimal Consumer Privacy with an Expert**
 [Download PDF](/files/working-paper-two.pdf)
 
 ## Works in Progress
 
-**[Flexible Information Acquisition in the Market for Lemons]**
+**Flexible Information Acquisition in the Market for Lemons**
+with Kyungmin Kim and Guram Lobzhanidze 
 
 *Draft available upon request.*
