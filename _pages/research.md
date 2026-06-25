@@ -7,19 +7,16 @@ author_profile: true
 
 ## Job Market Paper
 
-**[Title of Your Job Market Paper]**
+**[Privacy Regulation and Optimal Product Design]**
 [Download PDF](/files/job-market-paper.pdf)
 
 ## Working Papers
 
-**[Title of Working Paper Two]**
+**[Optimal Consumer Privacy with an Expert]**
 [Download PDF](/files/working-paper-two.pdf)
-
-**[Title of Working Paper Three]**
-[Download PDF](/files/working-paper-three.pdf)
 
 ## Works in Progress
 
-**[Title of Work in Progress]**
+**[Flexible Information Acquisition in the Market for Lemons]**
 
 *Draft available upon request.*
