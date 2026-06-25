@@ -1,0 +1,61 @@
+/* Periwinkle theme for Academic Pages */
+/* Place this file at _sass/theme/_periwinkle.scss and set site_theme: "periwinkle" in _config.yml */
+
+/* Color codes used for the site notices */
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
+$notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Periwinkle accent colors */
+$periwinkle                 : #6062b8;
+$periwinkle-light           : #8b8ed6;
+
+/* Light theme for the site (periwinkle accents) */
+:root {
+    --global-base-color                 : #{$gray};
+    --global-bg-color                   : #fff;
+    --global-border-color               : #{$lighter-gray};
+    --global-code-background-color      : #f4f4fb;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff, #{$dark-gray}, 25%);
+    --global-link-color                 : #{$periwinkle};
+    --global-link-color-hover           : mix(#000, $periwinkle, 25%);
+    --global-link-color-visited         : mix(#fff, $periwinkle, 25%);
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : #{$periwinkle};
+    --global-text-color                 : #{$dark-gray};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #f4f4fb;
+}
+
+/* Dark theme variant (periwinkle accents on dark background) */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --global-base-color                 : #{$light-gray};
+        --global-bg-color                   : #1f2024;
+        --global-border-color               : #3a3b42;
+        --global-code-background-color      : #2a2b33;
+        --global-code-text-color            : #{$lighter-gray};
+        --global-fig-caption-color          : mix(#000, #{$light-gray}, 25%);
+        --global-link-color                 : #{$periwinkle-light};
+        --global-link-color-hover           : mix(#fff, $periwinkle-light, 25%);
+        --global-link-color-visited         : mix(#000, $periwinkle-light, 25%);
+        --global-masthead-link-color        : #{$lighter-gray};
+        --global-masthead-link-color-hover  : #{$periwinkle-light};
+        --global-text-color                 : #{$lighter-gray};
+        --global-text-color-light           : #{$light-gray};
+        --global-thead-color                : #2a2b33;
+    }
+}
