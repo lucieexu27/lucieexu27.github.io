@@ -7,17 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download CV (PDF)](/files/cv.pdf)
 
-Education
-======
-* Ph.D in Economics,  Emory University, 2027 (expected)
-* B.A. in Economics and Mathematics, Georgetown University, 2021
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<iframe src="/files/cv.pdf" width="100%" height="800px" style="border: 1px solid #ccc;">
+  This browser does not support inline PDFs. Please <a href="/files/cv.pdf">download the CV</a> to view it.
+</iframe>
