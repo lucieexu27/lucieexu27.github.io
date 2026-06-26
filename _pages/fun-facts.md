@@ -26,7 +26,7 @@ I play the piano and cello for fun and have been lucky to share music with other
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
     <img src="/images/quintet.jpg" alt="Chamber music in college" style="width: 100%;">
-    <figcaption>Chamber music in college.</figcaption>
+    <figcaption>My chamber music group at Georgetown.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
     <img src="/images/yoyoma.JPG" alt="Soundchecking for Yo-Yo Ma" style="width: 100%;">
@@ -49,6 +49,6 @@ I love taking photos of the places I have been able to visit. Some of my favorit
   </figure>
   <figure style="flex: 1; min-width: 180px; max-width: 250px; margin: 0;">
     <img src="/images/banff.jpeg" alt="View hiking in Banff National Park" style="width: 100%;">
-    <figcaption>View hiking in Banff National Park.</figcaption>
+    <figcaption>The view from a hike in Banff National Park.</figcaption>
   </figure>
 </div>
