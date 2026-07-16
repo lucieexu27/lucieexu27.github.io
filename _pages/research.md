@@ -12,12 +12,11 @@ author_profile: true
 
 ## Working Papers
 
-**Optimal Consumer Privacy with an Expert**
-[Download PDF](/files/working-paper-two.pdf)
-
 ## Works in Progress
 
 **Flexible Information Acquisition in the Market for Lemons**
 with Kyungmin Kim and Guram Lobzhanidze 
+
+**Optimal Consumer Privacy with an Expert**
 
 *Draft available upon request.*
