@@ -10,11 +10,11 @@ Running has become a big part of my life in Atlanta. I've connected with the loc
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
-    <img src="/images/running2.jpg" alt="Running with fellow Atlanta Track Club ambassadors" style="width: 100%;">
+    <img src="/images/running2.jpg" alt="Running with fellow Atlanta Track Club ambassadors" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>Running with fellow Atlanta Track Club ambassadors.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
-    <img src="/images/running1.jpeg" alt="First marathon" style="width: 100%;">
+    <img src="/images/running1.jpeg" alt="First marathon" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>First marathon in the books!</figcaption>
   </figure>
 </div>
@@ -25,11 +25,11 @@ I play the piano and cello for fun and have been lucky to share music with other
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
-    <img src="/images/quintet.jpg" alt="Chamber music in college" style="width: 100%;">
+    <img src="/images/quintet.jpg" alt="Chamber music in college" style="width: 100%;height: 220px; object-fit: contain;"">
     <figcaption>My chamber music group at Georgetown.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 200px; max-width: 300px; margin: 0;">
-    <img src="/images/yoyoma.JPG" alt="Soundchecking for Yo-Yo Ma" style="width: 100%;">
+    <img src="/images/yoyoma.JPG" alt="Soundchecking for Yo-Yo Ma" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>Soundchecking for Yo-Yo Ma at the Georgetown SFS Centennial Gala.</figcaption>
   </figure>
 </div>
@@ -40,15 +40,15 @@ I love taking photos of the places I have been able to visit. Some of my favorit
 
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
   <figure style="flex: 1; min-width: 180px; max-width: 250px; margin: 0;">
-    <img src="/images/paris.jpg" alt="Sunset in Paris" style="width: 100%;">
+    <img src="/images/paris.jpg" alt="Sunset in Paris" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>Sunset in Paris.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 180px; max-width: 250px; margin: 0;">
-    <img src="/images/iceland.JPG" alt="Northern Lights in Iceland" style="width: 100%;">
+    <img src="/images/iceland.JPG" alt="Northern Lights in Iceland" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>Northern Lights in Iceland.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 180px; max-width: 250px; margin: 0;">
-    <img src="/images/banff.jpeg" alt="View hiking in Banff National Park" style="width: 100%;">
+    <img src="/images/banff.jpeg" alt="View hiking in Banff National Park" style="width: 100%; height: 220px; object-fit: contain;"">
     <figcaption>The view from a hike in Banff National Park.</figcaption>
   </figure>
 </div>
