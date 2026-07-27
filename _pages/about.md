@@ -11,6 +11,14 @@ I am a Ph.D. candidate in Economics and George W. Woodruff Fellow at Emory Unive
 
 I am on the job market in the 2026–2027 academic year.
 
+## Job Market Paper
+
+**"Privacy Regulation and Optimal Product Design"**
+
+*Abstract:* This paper studies how privacy regulation shapes a seller’s product design. In a circular city environment, the firm chooses a product design before observing a noisy signal of a consumer’s preferences and setting a personalized price. Privacy regulation determines the informativeness of this signal and limits the firm’s ability to target consumers. I show that the seller’s optimal product design responds non-monotonically to privacy: greater privacy can induce either broader or more niche products, depending on how it interacts with the firm’s pricing incentives. I then examine the resulting implications for consumer welfare.
+
+[Download PDF](/files/jmp.pdf)
+
 ## Research Interests
 
 * Industrial Organization
