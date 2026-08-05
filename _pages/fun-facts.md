@@ -36,10 +36,10 @@ I love taking photos of the places I have been able to visit. Some of my favorit
   </figure>
   <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
     <img src="/images/iceland.JPG" alt="Northern Lights in Iceland" style="width: 100%; display: block;">
-    <figcaption>Northern Lights in Iceland.</figcaption>
+    <figcaption>Northern Lights in Reykjavík, Iceland.</figcaption>
   </figure>
   <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
     <img src="/images/banff.jpeg" alt="View hiking in Banff National Park" style="width: 100%; display: block;">
-    <figcaption>The view from a hike in Banff National Park.</figcaption>
+    <figcaption>The view from hiking the Beehive in Banff National Park.</figcaption>
   </figure>
 </div>
