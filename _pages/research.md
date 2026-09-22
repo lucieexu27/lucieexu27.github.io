@@ -8,7 +8,6 @@ author_profile: true
 ## Job Market Paper
 
 "Privacy Regulation and Optimal Product Design"
-<-- [Download PDF](/files/job-market-paper.pdf)-->
 
 ## Working Papers
 "Flexible Information Acquisition in the Market for Lemons"
