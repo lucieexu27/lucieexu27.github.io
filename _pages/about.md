@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics and George W. Woodruff Fellow at Emory University. I received my B.A. in Economics and Mathematics from Georgetown University. My primary research interests are in microeconomic theory and industrial organization, with a focus on the economics of information and consumer privacy. 
+I am a Ph.D. candidate in Economics and George W. Woodruff Fellow at Emory University. I received my B.A. in Economics and Mathematics from Georgetown University. My primary research interests are in applied microeconomic theory and industrial organization, with a focus on the economics of information and consumer privacy. 
 
 I am on the job market in the 2026–2027 academic year.
 
