@@ -27,6 +27,26 @@ I play the piano and cello for fun and have been lucky to share music with other
     <figcaption>Soundchecking for Yo-Yo Ma at the Georgetown SFS Centennial Gala.</figcaption>
   </figure>
 </div>
+## Cooking
+I love spending time in the kitchen, especially baking. I'm gluten-free, so a lot of my cooking is about recreating favorites (like bagels and dumplings) that are hard to find gluten-free. Here are a few of my favorite creations:
+<div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; align-items: flex-start;">
+  <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
+    <img src="/images/cake.jpeg" alt="Layer cake with strawberry filling and buttercream, topped with fresh strawberries" style="width: 100%; display: block;">
+    <figcaption>Lemon pistachio cake with strawberry jam.</figcaption>
+  </figure>
+  <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
+    <img src="/images/cheesecake.jpg" alt="Cheesecake bars with a blackberry swirl and fresh blackberries" style="width: 100%; display: block;">
+    <figcaption>Blackberry swirl cheesecake bars.</figcaption>
+  </figure>
+  <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
+    <img src="/images/dumplings.jpeg" alt="Plate of pan-fried dumplings" style="width: 100%; display: block;">
+    <figcaption>Homemade pan-fried dumplings.</figcaption>
+  </figure>
+  <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
+    <img src="/images/bagels.jpg" alt="Everything bagels on baking trays" style="width: 100%; display: block;">
+    <figcaption>Everything bagels, fresh out of the oven.</figcaption>
+  </figure>
+</div>
 ## Photography
 I love taking photos of the places I have been able to visit. Some of my favorites have been France, Iceland, and Banff National Park in Canada.
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; align-items: flex-start;">
