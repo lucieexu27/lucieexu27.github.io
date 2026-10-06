@@ -15,6 +15,7 @@ Running has become a big part of my life in Atlanta. I've connected with the loc
     <figcaption>First marathon in the books!</figcaption>
   </figure>
 </div>
+
 ## Music
 I play the piano and cello for fun and have been lucky to share music with others over the years — from touring with an orchestra in Portugal to performing at Carnegie Hall. In college, I also loved playing chamber music, including a memorable double-cello quintet. I also had the chance to soundcheck for Yo-Yo Ma and the Silk Road Ensemble at a gala!
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; align-items: flex-start;">
@@ -27,6 +28,7 @@ I play the piano and cello for fun and have been lucky to share music with other
     <figcaption>Soundchecking for Yo-Yo Ma at the Georgetown SFS Centennial Gala.</figcaption>
   </figure>
 </div>
+
 ## Cooking
 I love spending time in the kitchen, especially baking. I'm gluten-free, so a lot of my cooking is about recreating favorites (like bagels and dumplings) that are hard to find gluten-free. Here are a few of my favorite creations:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; align-items: flex-start;">
@@ -47,6 +49,7 @@ I love spending time in the kitchen, especially baking. I'm gluten-free, so a lo
     <figcaption>Everything bagels, fresh out of the oven.</figcaption>
   </figure>
 </div>
+
 ## Photography
 I love taking photos of the places I have been able to visit. Some of my favorites have been France, Iceland, and Banff National Park in Canada.
 <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center; align-items: flex-start;">
