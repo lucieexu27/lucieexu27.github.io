@@ -16,6 +16,8 @@ _Abstract:_ This paper studies how privacy regulation shapes a seller’s produc
 **"Flexible Information Acquisition in the Market for Lemons"**
 with Kyungmin Kim and Guram Lobzhanidze 
 
+_Abstract:_ We consider a dynamic decentralized market in which sellers possess private information about the quality of their unit and buyers can acquire information about the quality of their randomly matched partner. We assume that buyers' information acquisition is fully flexible subject to uniformly posterior-separable information costs. We characterize stationary equilibria of this market model and show complementarity between buyers' screening and sellers' trading incentives can produce equilibrium multiplicity, and lower information costs can be harmful to buyers and even Pareto worsening. 
+
 ## Works in Progress
 
 **"Optimal Consumer Privacy with an Expert"**
