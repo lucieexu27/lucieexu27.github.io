@@ -36,10 +36,10 @@ I love spending time in the kitchen, especially baking. I'm gluten-free, so a lo
     <img src="/images/cake.jpeg" alt="Layer cake with strawberry filling and buttercream, topped with fresh strawberries" style="width: 100%; display: block;">
     <figcaption>Lemon pistachio cake with strawberry jam.</figcaption>
   </figure>
-  <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
+  <!-- <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
     <img src="/images/cheesecake.jpg" alt="Cheesecake bars with a blackberry swirl and fresh blackberries" style="width: 100%; display: block;">
     <figcaption>Blackberry swirl cheesecake bars.</figcaption>
-  </figure>
+  </figure> -->
   <figure style="flex: 0 1 250px; min-width: 180px; max-width: 250px; margin: 0;">
     <img src="/images/dumplings.jpeg" alt="Plate of pan-fried dumplings" style="width: 100%; display: block;">
     <figcaption>Homemade pan-fried dumplings.</figcaption>
