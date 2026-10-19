@@ -11,12 +11,16 @@ author_profile: true
 
 _Abstract:_ This paper studies how privacy regulation shapes a seller’s product design. In a circular city environment, the firm chooses a product design before observing a noisy signal of a consumer’s preferences and setting a personalized price. Privacy regulation determines the informativeness of this signal and limits the firm’s ability to target consumers. I show that the seller’s optimal product design responds non-monotonically to privacy. Greater privacy can induce either broader or more niche products. The extent depends on how it interacts with the firm’s pricing incentives. I then examine the resulting implications for consumer welfare.
 
+[Download PDF](/files/job-market-paper.pdf)
+
 ## Working Papers
 
 **"Information Acquisition in the Market for Lemons"**
 with Kyungmin Kim and Guram Lobzhanidze 
 
 _Abstract:_ We consider a dynamic decentralized market in which sellers possess private information about the quality of their unit and buyers can acquire information about the quality of their randomly matched partner. We assume that buyers' information acquisition is fully flexible subject to uniformly posterior-separable information costs. We characterize stationary market equilibria and show that complementarity between buyers' screening and sellers' trading incentives can cause equilibrium multiplicity, and lower information costs can be harmful to buyers and even Pareto worsening. 
+
+[Download PDF](/files/Information Acquisition in the Market for Lemons.pdf)
 
 ## Works in Progress
 
